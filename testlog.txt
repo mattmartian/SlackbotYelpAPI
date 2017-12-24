@@ -1,0 +1,256 @@
+yelphelp APP [11:23 PM] 
+Hello, There! How can I help you.
+
+
+Matt Martin [11:24 PM] 
+Nearby 135 Fennel Avenue West, Hamilton, Ontario
+
+
+
+yelphelp APP [11:24 PM] 
+Name:  Pokeh
+ Location:  35 York Boulevard, Hamilton, ON, CA
+
+
+[11:24] 
+Name:  Earth To Table : Bread Bar
+ Location:  258 Locke Street S, Hamilton, ON, CA
+
+
+[11:24] 
+Name:  The Ship
+ Location:  23 Augusta Street, Hamilton, ON, CA
+
+
+[11:24] 
+Name:  Rapscallion Rogue Eatery
+ Location:  61 Young Street, Hamilton, ON, CA
+
+
+Matt Martin [11:27 PM] 
+Closeby 43.238300 -79.886100
+
+
+
+yelphelp APP [11:27 PM] 
+Name:  Loma Cafe & Bistro
+ Location:  612 Upper James Street, Hamilton, ON, CA
+
+
+[11:27] 
+Name:  Alamin Charcoal Flame
+ Location:  891 Upper James Street, Hamilton, ON, CA
+
+
+[11:27] 
+Name:  Pho Dau Bo
+ Location:  830 Upper James, Hamilton, ON, CA
+
+
+Matt Martin [11:29 PM] 
+Top 10 135 Fennel Avenue West, Hamilton, Ontario, Canada.
+
+
+yelphelp APP [11:29 PM] 
+Name: Charred Chicken
+ Location: 244 James Street N, Hamilton, ON, CA
+  Rating: 4.5
+
+
+[11:29] 
+Name: Earth To Table : Bread Bar
+ Location: 258 Locke Street S, Hamilton, ON, CA
+  Rating: 4.5
+
+
+[11:29] 
+Name: Lulu's Shawarma
+ Location: 32 John Street N, Hamilton, ON, CA
+  Rating: 4.5
+
+
+[11:29] 
+Name: 541 Eatery & Exchange
+ Location: 541 Barton Street E, Hamilton, ON, CA
+  Rating: 4.5
+
+
+[11:29] 
+Name: Rapscallion Rogue Eatery
+ Location: 61 Young Street, Hamilton, ON, CA
+  Rating: 4.5
+
+
+[11:29] 
+Name: Cannon Coffee
+ Location: 179 Ottawa Street N, Hamilton, ON, CA
+  Rating: 4.5
+
+
+[11:29] 
+Name: The Ship
+ Location: 23 Augusta Street, Hamilton, ON, CA
+  Rating: 4
+
+
+Matt Martin [11:29 PM] 
+Closest 7 135 Fennel Avenue West, Hamilton, Ontario
+
+
+
+yelphelp APP [11:29 PM] 
+Name:  Loma Cafe & Bistro
+ Location: 612 Upper James Street, Hamilton, ON, CA
+
+
+[11:29] 
+Name:  Alamin Charcoal Flame
+ Location: 891 Upper James Street, Hamilton, ON, CA
+
+
+[11:29] 
+Name:  Pho Dau Bo
+ Location: 830 Upper James, Hamilton, ON, CA
+
+
+[11:29] 
+Name:  Earth To Table : Bread Bar
+ Location: 258 Locke Street S, Hamilton, ON, CA
+
+
+[11:29] 
+Name:  Cake & Loaf Bakery
+ Location: 321 Dundurn Street S, Hamilton, ON, CA
+
+
+Matt Martin [11:29 PM] 
+FindMe sushi 135 Fennel Avenue West, Hamilton, Ontario
+
+
+
+yelphelp APP [11:29 PM] 
+Name: Pokeh
+ Address: 35 York Boulevard, Hamilton, ON, CA
+ Rating:  4.5
+
+[11:29] 
+Name: August 8
+ Address: 835 Paramount Drive, Stoney Creek, ON, CA
+ Rating:  3.5
+
+[11:29] 
+Name: Sushi 'O' On Fennell
+ Address: 669 Fennell Avenue E, Hamilton, ON, CA
+ Rating:  4.5
+
+[11:29] 
+Name: Doma Sushi
+ Address: 3450 Dundas Street, Burlington, ON, CA
+ Rating:  4.5
+
+
+[11:29] 
+Name: August 8
+ Address: 834 Brant Street, Burlington, ON, CA
+ Rating:  3
+
+
+[11:29] 
+Name: Sushi Masayuki
+ Address: 2180 Itabashi Way, Burlington, ON, CA
+ Rating:  4.5
+
+[11:29] 
+Name: Matsuri Restaurant
+ Address: 36 King Street E, Dundas, ON, CA
+ Rating:  3.5
+
+
+[11:29] 
+Name: Spring Sushi
+ Address: 1508 Upper James St, Hamilton, ON, CA
+ Rating:  4
+
+
+[11:29] 
+Name: August 8
+ Address: 1066 Upper James Street, Hamilton, ON, CA
+ Rating:  4
+
+
+[11:29] 
+Name: Hotaru Sushi
+ Address: 1686 Main Street W, Hamilton, ON, CA
+ Rating:  3.5
+
+
+[11:29] 
+Name: Crisp Here
+ Address: 710 Cumberland Avenue, Burlington, ON, CA
+ Rating:  4.5
+
+
+[11:29] 
+Name: Chihiro Sushi
+ Address: 1441 Upper James Street, Hamilton, ON, CA
+ Rating:  4
+
+
+[11:29] 
+Name: Atami Sushi
+ Address: 2200 Rymal Rd E, Hamilton, ON, CA
+ Rating:  3.5
+
+
+[11:29] 
+Name: Tatemono Sushi Bar & Restaurant
+ Address: 135 King Street E, Hamilton, ON, CA
+ Rating:  3.5
+
+
+[11:29] 
+Name: Ichiban Sushi House
+ Address: 3315 Fairview Street, Burlington, ON, CA
+ Rating:  4.5
+
+
+[11:29] 
+Name: Nique Restaurant
+ Address: 30 Vine Street, Hamilton, ON, CA
+ Rating:  4
+
+
+Matt Martin [11:31 PM] 
+Reviews Spring Sushi 135 Fennel Avenue West, Hamilton, Ontario
+
+
+
+yelphelp APP [11:31 PM] 
+spring-sushi-hamilton
+
+
+[11:31] 
+This is my favourite restaurant to visit in Hamilton by far. The all-you-can-eat menu is extensive with so many options -even for people who don't eat...
+
+
+[11:31] 
+Usually good here . Some times I find food comes out warm, not a fan of warm.
+I found that the Best time is a late lunch around 2:00  on weekends. I find...
+
+
+[11:31] 
+We came here on a weekend night. 
+The all you can eat buffet is below average compare to the Toronto area. 
+We came here based on the good reviews on Yelp...
+
+
+Matt Martin [11:33 PM] 
+SearchByPhone 19053836868
+
+
+
+yelphelp APP [11:33 PM] 
+Name:
+ Spring Grill House
+ Location:
+ 1441 Upper James Street, Hamilton, ON, CA
